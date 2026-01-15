@@ -1,0 +1,26 @@
+name: dwprice
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0-200.1.beta
+
+dependencies:
+  logger: ^2.6.1
+  syncfusion_flutter_charts: ^32.1.22
+  flutter:
+    sdk: flutter
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Jost
+      fonts:
+        - asset: fonts/Jost-Medium.ttf
