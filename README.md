@@ -1,3 +1,2 @@
 # dwprice
-
-A new Flutter project.
+Сайт для простмора цен на вещи в магазинах городов DesireWorld (сервера по Minecraft)
